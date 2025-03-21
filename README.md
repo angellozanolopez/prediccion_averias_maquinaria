@@ -1,26 +1,42 @@
-# prediccion_averias_maquinaria
-Predice la fecha en que se va a producir la siguiente averia en una maquina
+# 🔧 PREDICCION PROXIMA AVERIA EN MAQUINARIA INDUSTRIAL
+📅 **Predicción de Averías en Máquinas**  
 
-**Formación en modelos predictivos (II)**
+---
 
-**Ejercicio**
+## **📌 Descripción del Proyecto**  
+Este proyecto tiene como objetivo predecir la fecha en la que se producirá la próxima avería en una máquina.  
+Se utilizarán modelos predictivos para analizar el historial de fallos y programar mantenimientos preventivos.  
 
-Con el fin de consolidar tus conocimientos en modelos predictivos, el ejercicio actual consiste en
-crear un modelo para prever el mantenimiento a llevar a cabo en una serie de máquinas.
+### **🎯 Formación en Modelos Predictivos (II)**  
+Este ejercicio está diseñado para consolidar conocimientos en modelos predictivos aplicados al mantenimiento industrial.  
 
-Se proporciona un dataset donde aparece las fechas en que ha fallado cada máquina. La idea, para
-no complicar, es hacer mantenimiento en la máquina justo el día en que falla; asumiremos que, al
-llevarlo a cabo a primera hora de la mañana, ésta ya no se estropeará.
-Acceso al dataset: https://apioverstand.es/training/mantenimiento_modificado.csv
+---
 
-**Entregables**
+## **📊 Ejercicio**  
+Se proporciona un dataset con las fechas en que han fallado diversas máquinas.  
+La estrategia del modelo es sencilla: **programar el mantenimiento justo el día en que se predice que la máquina fallará**.  
 
-Entregables (en un único wetransfer):
+✅ **Suposición**: Si el mantenimiento se realiza a primera hora de la mañana, evitaremos el fallo y la máquina seguirá operativa.  
 
-1. Código fuente de la solución
-2. Video explicativo del código fuente (máximo 3 minutos)
-3. Video mostrando e interpretando los resultados (máximo 2 minutos)
-4. Pantallazo del "calendario" con el plan de mantenimiento predicho. No debe ser
-necesariamente bonito a la vista, sino simplemente un listado de fecha - tarea, etc.
+🔗 **Acceso al dataset:**  
+📂 [mantenimiento_modificado.csv](https://apioverstand.es/training/mantenimiento_modificado.csv)  
 
-¡Ánimos!
+---
+
+## **📂 Entregables**  
+Todos los archivos deben enviarse en un único **WeTransfer** e incluir:  
+
+1️⃣ **Código fuente de la solución**  
+2️⃣ **Video explicativo del código fuente** (máximo **3 minutos**)  
+3️⃣ **Video mostrando e interpretando los resultados** (máximo **2 minutos**)  
+4️⃣ **Pantallazo del "calendario" con el plan de mantenimiento predicho**  
+   📌 (*No necesita ser visualmente atractivo, solo debe mostrar la fecha y la tarea de mantenimiento programada.*)  
+
+---
+
+## **🎥 SOLUCIÓN**  
+🔹 **Código y Demostración:**  
+[![Ver en YouTube](https://img.shields.io/badge/🎥%20Ver%20Video-red?logo=youtube&logoColor=white)](https://youtu.be/_0Ns67kMtow?si=pUTFgGl8tX06EcPD)  
+📌 *Haz clic con el botón derecho en el botón y selecciona "Abrir enlace en una nueva pestaña" para no salir del repositorio.*  
+
+
